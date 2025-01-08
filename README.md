@@ -1,6 +1,8 @@
 A binary watch face *poorly* designed of the Forerunner 45
 
-![Alt text](/watchface_capture.png?raw=true "Image of watch face showing time")
+<p align="center">
+  ![Alt text](/watchface_capture.png?raw=true "Image of watch face showing time")
+</p>
 
 ## Monkey C
 - https://developer.garmin.com/connect-iq/monkey-c/
