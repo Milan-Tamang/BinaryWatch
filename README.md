@@ -1,5 +1,7 @@
 A binary watch face *poorly* designed of the Forerunner 45
 
+![Image]("/Watchface capture.png")
+
 ## Monkey C
 - https://developer.garmin.com/connect-iq/monkey-c/
 
