@@ -1,0 +1,24 @@
+<layout id="WatchFace">
+    <label id="TimeHr"     x="center" y="18%" font="Graphics.FONT_NUMBER_MEDIUM" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_BLUE" />
+    <label id="TimeMin"    x="center" y="42%" font="Graphics.FONT_NUMBER_MEDIUM" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_WHITE" />
+    <label id="TimeSec"    x="center" y="73%" font="Graphics.FONT_SMALL"         justification="Graphics.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_WHITE" />
+    <label id="Date"       x="center" y="2%"  font="Graphics.FONT_TINY"          justification="Graphics.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_WHITE" />
+    <label id="Battery"    x="center" y="90%" font="Graphics.FONT_TINY"          justification="Graphics.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_WHITE" />
+    <label id="BatteryLOW" x="center" y="90%" font="Graphics.FONT_TINY"          justification="Graphics.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_RED"   />
+</layout>
+
+<!--
+Graphics API
+- https://developer.garmin.com/connect-iq/api-docs/Toybox/Graphics.html
+
+FORERUNNER 45 Available Colours
+COLOR_WHITE         1
+COLOR_BLACK         1
+COLOR_RED           1
+COLOR_YELLOW        1
+COLOR_GREEN         1
+COLOR_BLUE          1
+COLOR_DK_BLUE       1
+COLOR_PURPLE        1
+COLOR_TRANSPARENT   1
+-->
