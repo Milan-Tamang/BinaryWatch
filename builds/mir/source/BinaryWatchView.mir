@@ -987,121 +987,133 @@ D_Programming_monkeyC_BinaryWatch_source_BinaryWatchView_mc_280_4_start:
         %tmp.4 = lgetv %systemStats.1;
         %tmp.5 = getv %tmp.4 :battery;
         lputv %batteryPercent.2 %tmp.5;
-[ "D:\Programming\monkeyC\BinaryWatch\source\BinaryWatchView.mc" 284 8 ]
+[ "D:\Programming\monkeyC\BinaryWatch\source\BinaryWatchView.mc" 287 8 ]
         [ "D_Programming_monkeyC_BinaryWatch_source_BinaryWatchView_mc_280_4_start" "D_Programming_monkeyC_BinaryWatch_source_BinaryWatchView_mc_280_4_stop" ]
         %batteryString.3 = local;
-D_Programming_monkeyC_BinaryWatch_source_BinaryWatchView_mc_284_28_begin:
+D_Programming_monkeyC_BinaryWatch_source_BinaryWatchView_mc_287_28_begin:
+D_Programming_monkeyC_BinaryWatch_source_BinaryWatchView_mc_287_29_begin:
         %tmp.7 = getv ? :isAwake;
-        bf %tmp.7 @D_Programming_monkeyC_BinaryWatch_source_BinaryWatchView_mc_284_28_false;
-D_Programming_monkeyC_BinaryWatch_source_BinaryWatchView_mc_284_28_true:
-        %tmp.8 = lgetv %batteryPercent.2;
-        %tmp.9 = getv function %tmp.8 :format;
-        %tmp.10 = "%d";
-        %tmp.11 = invoke %tmp.8 %tmp.9(%tmp.10);
-        %tmp.12 = "%";
-        %tmp.13 = add %tmp.11 %tmp.12;
-        push %tmp.13;
-        goto @D_Programming_monkeyC_BinaryWatch_source_BinaryWatchView_mc_284_28_end;
-D_Programming_monkeyC_BinaryWatch_source_BinaryWatchView_mc_284_28_false:
-        %tmp.14 = "";
+        %tmp.8 = not %tmp.7;
+        %tmp.9 = dup %tmp.8;
+        bf %tmp.9 @D_Programming_monkeyC_BinaryWatch_source_BinaryWatchView_mc_287_41_end;
+D_Programming_monkeyC_BinaryWatch_source_BinaryWatchView_mc_287_41_true:
+        %tmp.11 = lgetv %batteryPercent.2;
+        %tmp.12 = 20;
+        %tmp.13 = gt %tmp.11 %tmp.12;
+        %tmp.14 = and %tmp.8 %tmp.13;
         push %tmp.14;
-D_Programming_monkeyC_BinaryWatch_source_BinaryWatchView_mc_284_28_end:
-        %tmp.15 = phi [%tmp.7 @D_Programming_monkeyC_BinaryWatch_source_BinaryWatchView_mc_284_28_begin] [%tmp.13 @D_Programming_monkeyC_BinaryWatch_source_BinaryWatchView_mc_284_28_true] [%tmp.14 @D_Programming_monkeyC_BinaryWatch_source_BinaryWatchView_mc_284_28_false] [%tmp.15 @D_Programming_monkeyC_BinaryWatch_source_BinaryWatchView_mc_284_28_end];
-        lputv %batteryString.3 %tmp.15;
-[ "D:\Programming\monkeyC\BinaryWatch\source\BinaryWatchView.mc" 285 8 ]
+D_Programming_monkeyC_BinaryWatch_source_BinaryWatchView_mc_287_41_end:
+        %tmp.15 = phi [%tmp.9 @D_Programming_monkeyC_BinaryWatch_source_BinaryWatchView_mc_287_29_begin] [%tmp.14 @D_Programming_monkeyC_BinaryWatch_source_BinaryWatchView_mc_287_41_true] [%tmp.15 @D_Programming_monkeyC_BinaryWatch_source_BinaryWatchView_mc_287_41_end];
+        bf %tmp.15 @D_Programming_monkeyC_BinaryWatch_source_BinaryWatchView_mc_287_28_false;
+D_Programming_monkeyC_BinaryWatch_source_BinaryWatchView_mc_287_28_true:
+        %tmp.16 = "";
+        push %tmp.16;
+        goto @D_Programming_monkeyC_BinaryWatch_source_BinaryWatchView_mc_287_28_end;
+D_Programming_monkeyC_BinaryWatch_source_BinaryWatchView_mc_287_28_false:
+        %tmp.17 = lgetv %batteryPercent.2;
+        %tmp.18 = getv function %tmp.17 :format;
+        %tmp.19 = "%d";
+        %tmp.20 = invoke %tmp.17 %tmp.18(%tmp.19);
+        %tmp.21 = "%";
+        %tmp.22 = add %tmp.20 %tmp.21;
+        push %tmp.22;
+D_Programming_monkeyC_BinaryWatch_source_BinaryWatchView_mc_287_28_end:
+        %tmp.23 = phi [%tmp.15 @D_Programming_monkeyC_BinaryWatch_source_BinaryWatchView_mc_287_28_begin] [%tmp.16 @D_Programming_monkeyC_BinaryWatch_source_BinaryWatchView_mc_287_28_true] [%tmp.22 @D_Programming_monkeyC_BinaryWatch_source_BinaryWatchView_mc_287_28_false] [%tmp.23 @D_Programming_monkeyC_BinaryWatch_source_BinaryWatchView_mc_287_28_end];
+        lputv %batteryString.3 %tmp.23;
+[ "D:\Programming\monkeyC\BinaryWatch\source\BinaryWatchView.mc" 291 8 ]
         [ "D_Programming_monkeyC_BinaryWatch_source_BinaryWatchView_mc_280_4_start" "D_Programming_monkeyC_BinaryWatch_source_BinaryWatchView_mc_280_4_stop" ]
         %viewBattery.4 = local;
-        %tmp.17 = getv ? :View;
-        %tmp.18 = getv function %tmp.17 :findDrawableById;
-        %tmp.19 = "Battery";
-        %tmp.20 = invoke %tmp.17 %tmp.18(%tmp.19);
-        %tmp.21 = as %tmp.20 Text;
-        lputv %viewBattery.4 %tmp.21;
-[ "D:\Programming\monkeyC\BinaryWatch\source\BinaryWatchView.mc" 286 8 ]
+        %tmp.25 = getv ? :View;
+        %tmp.26 = getv function %tmp.25 :findDrawableById;
+        %tmp.27 = "Battery";
+        %tmp.28 = invoke %tmp.25 %tmp.26(%tmp.27);
+        %tmp.29 = as %tmp.28 Text;
+        lputv %viewBattery.4 %tmp.29;
+[ "D:\Programming\monkeyC\BinaryWatch\source\BinaryWatchView.mc" 292 8 ]
         [ "D_Programming_monkeyC_BinaryWatch_source_BinaryWatchView_mc_280_4_start" "D_Programming_monkeyC_BinaryWatch_source_BinaryWatchView_mc_280_4_stop" ]
         %viewBatteryLOW.5 = local;
-        %tmp.23 = getv ? :View;
-        %tmp.24 = getv function %tmp.23 :findDrawableById;
-        %tmp.25 = "BatteryLOW";
-        %tmp.26 = invoke %tmp.23 %tmp.24(%tmp.25);
-        %tmp.27 = as %tmp.26 Text;
-        lputv %viewBatteryLOW.5 %tmp.27;
-[ "D:\Programming\monkeyC\BinaryWatch\source\BinaryWatchView.mc" 288 8 ]
-D_Programming_monkeyC_BinaryWatch_source_BinaryWatchView_mc_288_8_if_stmt:
-        %tmp.29 = lgetv %batteryPercent.2;
-        %tmp.30 = 20;
-        %tmp.31 = lte %tmp.29 %tmp.30;
-        bf %tmp.31 @D_Programming_monkeyC_BinaryWatch_source_BinaryWatchView_mc_288_8_if_false;
-D_Programming_monkeyC_BinaryWatch_source_BinaryWatchView_mc_288_8_if_true:
-D_Programming_monkeyC_BinaryWatch_source_BinaryWatchView_mc_289_8_start:
-[ "D:\Programming\monkeyC\BinaryWatch\source\BinaryWatchView.mc" 290 12 ]
-        %tmp.32 = lgetv %viewBatteryLOW.5;
-        %tmp.33 = getv function %tmp.32 :setText;
-        %tmp.35 = lgetv %batteryString.3;
-        invoke %tmp.32 %tmp.33(%tmp.35);
-[ "D:\Programming\monkeyC\BinaryWatch\source\BinaryWatchView.mc" 291 12 ]
-        %tmp.36 = lgetv %viewBattery.4;
-        %tmp.37 = getv function %tmp.36 :setText;
-        %tmp.38 = "";
-        invoke %tmp.36 %tmp.37(%tmp.38);
-D_Programming_monkeyC_BinaryWatch_source_BinaryWatchView_mc_289_8_stop:
-        goto @D_Programming_monkeyC_BinaryWatch_source_BinaryWatchView_mc_288_8_if_end;
-D_Programming_monkeyC_BinaryWatch_source_BinaryWatchView_mc_288_8_if_false:
-D_Programming_monkeyC_BinaryWatch_source_BinaryWatchView_mc_297_8_start:
-[ "D:\Programming\monkeyC\BinaryWatch\source\BinaryWatchView.mc" 298 12 ]
-        %tmp.39 = lgetv %viewBattery.4;
-        %tmp.40 = getv function %tmp.39 :setText;
-        %tmp.42 = lgetv %batteryString.3;
-        invoke %tmp.39 %tmp.40(%tmp.42);
-[ "D:\Programming\monkeyC\BinaryWatch\source\BinaryWatchView.mc" 299 12 ]
-        %tmp.43 = lgetv %viewBatteryLOW.5;
-        %tmp.44 = getv function %tmp.43 :setText;
-        %tmp.45 = "";
-        invoke %tmp.43 %tmp.44(%tmp.45);
-D_Programming_monkeyC_BinaryWatch_source_BinaryWatchView_mc_297_8_stop:
-D_Programming_monkeyC_BinaryWatch_source_BinaryWatchView_mc_288_8_if_end:
+        %tmp.31 = getv ? :View;
+        %tmp.32 = getv function %tmp.31 :findDrawableById;
+        %tmp.33 = "BatteryLOW";
+        %tmp.34 = invoke %tmp.31 %tmp.32(%tmp.33);
+        %tmp.35 = as %tmp.34 Text;
+        lputv %viewBatteryLOW.5 %tmp.35;
+[ "D:\Programming\monkeyC\BinaryWatch\source\BinaryWatchView.mc" 294 8 ]
+D_Programming_monkeyC_BinaryWatch_source_BinaryWatchView_mc_294_8_if_stmt:
+        %tmp.37 = lgetv %batteryPercent.2;
+        %tmp.38 = 20;
+        %tmp.39 = lte %tmp.37 %tmp.38;
+        bf %tmp.39 @D_Programming_monkeyC_BinaryWatch_source_BinaryWatchView_mc_294_8_if_false;
+D_Programming_monkeyC_BinaryWatch_source_BinaryWatchView_mc_294_8_if_true:
+D_Programming_monkeyC_BinaryWatch_source_BinaryWatchView_mc_295_8_start:
+[ "D:\Programming\monkeyC\BinaryWatch\source\BinaryWatchView.mc" 296 12 ]
+        %tmp.40 = lgetv %viewBatteryLOW.5;
+        %tmp.41 = getv function %tmp.40 :setText;
+        %tmp.43 = lgetv %batteryString.3;
+        invoke %tmp.40 %tmp.41(%tmp.43);
+[ "D:\Programming\monkeyC\BinaryWatch\source\BinaryWatchView.mc" 297 12 ]
+        %tmp.44 = lgetv %viewBattery.4;
+        %tmp.45 = getv function %tmp.44 :setText;
+        %tmp.46 = "";
+        invoke %tmp.44 %tmp.45(%tmp.46);
+D_Programming_monkeyC_BinaryWatch_source_BinaryWatchView_mc_295_8_stop:
+        goto @D_Programming_monkeyC_BinaryWatch_source_BinaryWatchView_mc_294_8_if_end;
+D_Programming_monkeyC_BinaryWatch_source_BinaryWatchView_mc_294_8_if_false:
+D_Programming_monkeyC_BinaryWatch_source_BinaryWatchView_mc_303_8_start:
+[ "D:\Programming\monkeyC\BinaryWatch\source\BinaryWatchView.mc" 304 12 ]
+        %tmp.47 = lgetv %viewBattery.4;
+        %tmp.48 = getv function %tmp.47 :setText;
+        %tmp.50 = lgetv %batteryString.3;
+        invoke %tmp.47 %tmp.48(%tmp.50);
+[ "D:\Programming\monkeyC\BinaryWatch\source\BinaryWatchView.mc" 305 12 ]
+        %tmp.51 = lgetv %viewBatteryLOW.5;
+        %tmp.52 = getv function %tmp.51 :setText;
+        %tmp.53 = "";
+        invoke %tmp.51 %tmp.52(%tmp.53);
+D_Programming_monkeyC_BinaryWatch_source_BinaryWatchView_mc_303_8_stop:
+D_Programming_monkeyC_BinaryWatch_source_BinaryWatchView_mc_294_8_if_end:
 D_Programming_monkeyC_BinaryWatch_source_BinaryWatchView_mc_280_4_stop:
     }
-    [ @file = "D:\Programming\monkeyC\BinaryWatch\source\BinaryWatchView.mc"; @line = 311; ]
+    [ @file = "D:\Programming\monkeyC\BinaryWatch\source\BinaryWatchView.mc"; @line = 317; ]
     function onUpdate(dc as Dc) as Void {
-D_Programming_monkeyC_BinaryWatch_source_BinaryWatchView_mc_312_4_start:
-[ "D:\Programming\monkeyC\BinaryWatch\source\BinaryWatchView.mc" 314 8 ]
+D_Programming_monkeyC_BinaryWatch_source_BinaryWatchView_mc_318_4_start:
+[ "D:\Programming\monkeyC\BinaryWatch\source\BinaryWatchView.mc" 320 8 ]
         %tmp.1 = self;
         %tmp.2 = getv function %tmp.1 :showTime;
         invoke %tmp.1 %tmp.2();
-[ "D:\Programming\monkeyC\BinaryWatch\source\BinaryWatchView.mc" 317 8 ]
+[ "D:\Programming\monkeyC\BinaryWatch\source\BinaryWatchView.mc" 323 8 ]
         %tmp.3 = self;
         %tmp.4 = getv function %tmp.3 :showDate;
         invoke %tmp.3 %tmp.4();
-[ "D:\Programming\monkeyC\BinaryWatch\source\BinaryWatchView.mc" 320 8 ]
+[ "D:\Programming\monkeyC\BinaryWatch\source\BinaryWatchView.mc" 326 8 ]
         %tmp.5 = self;
         %tmp.6 = getv function %tmp.5 :showBattery;
         invoke %tmp.5 %tmp.6();
-[ "D:\Programming\monkeyC\BinaryWatch\source\BinaryWatchView.mc" 323 8 ]
+[ "D:\Programming\monkeyC\BinaryWatch\source\BinaryWatchView.mc" 329 8 ]
         %tmp.8 = getv ? :View;
         %tmp.9 = getv function %tmp.8 :onUpdate;
         %tmp.11 = lgetv %dc;
         invoke %tmp.8 %tmp.9(%tmp.11);
-D_Programming_monkeyC_BinaryWatch_source_BinaryWatchView_mc_312_4_stop:
+D_Programming_monkeyC_BinaryWatch_source_BinaryWatchView_mc_318_4_stop:
     }
-    [ @file = "D:\Programming\monkeyC\BinaryWatch\source\BinaryWatchView.mc"; @line = 329; ]
+    [ @file = "D:\Programming\monkeyC\BinaryWatch\source\BinaryWatchView.mc"; @line = 335; ]
     function onHide() as Void {
     }
-    [ @file = "D:\Programming\monkeyC\BinaryWatch\source\BinaryWatchView.mc"; @line = 332; ]
-    function onExitSleep() as Void {
-D_Programming_monkeyC_BinaryWatch_source_BinaryWatchView_mc_333_4_start:
-[ "D:\Programming\monkeyC\BinaryWatch\source\BinaryWatchView.mc" 334 8 ]
-        %tmp.1 = true;
-        putv self :isAwake %tmp.1;
-D_Programming_monkeyC_BinaryWatch_source_BinaryWatchView_mc_333_4_stop:
-    }
     [ @file = "D:\Programming\monkeyC\BinaryWatch\source\BinaryWatchView.mc"; @line = 338; ]
-    function onEnterSleep() as Void {
+    function onExitSleep() as Void {
 D_Programming_monkeyC_BinaryWatch_source_BinaryWatchView_mc_339_4_start:
 [ "D:\Programming\monkeyC\BinaryWatch\source\BinaryWatchView.mc" 340 8 ]
-        %tmp.1 = false;
+        %tmp.1 = true;
         putv self :isAwake %tmp.1;
 D_Programming_monkeyC_BinaryWatch_source_BinaryWatchView_mc_339_4_stop:
+    }
+    [ @file = "D:\Programming\monkeyC\BinaryWatch\source\BinaryWatchView.mc"; @line = 344; ]
+    function onEnterSleep() as Void {
+D_Programming_monkeyC_BinaryWatch_source_BinaryWatchView_mc_345_4_start:
+[ "D:\Programming\monkeyC\BinaryWatch\source\BinaryWatchView.mc" 346 8 ]
+        %tmp.1 = false;
+        putv self :isAwake %tmp.1;
+D_Programming_monkeyC_BinaryWatch_source_BinaryWatchView_mc_345_4_stop:
     }
 }
 [ @file = "D:\Programming\monkeyC\BinaryWatch\source\BinaryWatchView.mc"; @line = 1; ]
