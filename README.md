@@ -1,4 +1,4 @@
-A binary watch face *poorly* designed of the Forerunner 45
+A binary watch face *poorly* designed for the Forerunner 45
 
 ![Alt text](/watchface_capture.png?raw=true "Image of watch face showing time")
 
