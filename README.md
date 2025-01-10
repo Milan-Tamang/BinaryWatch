@@ -23,3 +23,9 @@ A binary watch face *poorly* designed for the Forerunner 45
 
 # general
 - add elements to layout/ drawables/ strings.xlm to include in .mc file
+
+
+
+# Updates
+## v1.1.0
+Modifed display behaviour such that if battery below 20% the red battery low percentage is always displayed even when in low power mode.
