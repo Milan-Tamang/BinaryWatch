@@ -4,270 +4,279 @@
 <pcToLineNum>
 <entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchApp.mc" id="1" lineNum="26" parent="globals" pc="268435460" symbol="getApp"/>
 <entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchApp.mc" id="1" lineNum="27" parent="globals" pc="268435470" symbol="getApp"/>
-<entry filename="d:\\Programming\\monkeyC\\BinaryWatch\\bin\\gen\\006-B3282-00\\source\\Rez.mcgen" id="2" lineNum="7" parent="globals/Rez" pc="268435486" symbol="&lt;init&gt;"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchApp.mc" id="3" lineNum="5" parent="globals/BinaryWatchApp" pc="268435505" symbol="&lt;init&gt;"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchApp.mc" id="4" lineNum="12" parent="globals/BinaryWatchApp" pc="268435524" symbol="onStart"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchApp.mc" id="5" lineNum="20" parent="globals/BinaryWatchApp" pc="268435527" symbol="getInitialView"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchApp.mc" id="5" lineNum="21" parent="globals/BinaryWatchApp" pc="268435529" symbol="getInitialView"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchApp.mc" id="6" lineNum="7" parent="globals/BinaryWatchApp" pc="268435570" symbol="initialize"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchApp.mc" id="6" lineNum="8" parent="globals/BinaryWatchApp" pc="268435572" symbol="initialize"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchApp.mc" id="7" lineNum="16" parent="globals/BinaryWatchApp" pc="268435591" symbol="onStop"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="8" lineNum="8" parent="globals/BinaryWatchView" pc="268435594" symbol="&lt;init&gt;"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="9" lineNum="331" parent="globals/BinaryWatchView" pc="268435613" symbol="onExitSleep"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="9" lineNum="333" parent="globals/BinaryWatchView" pc="268435615" symbol="onExitSleep"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="10" lineNum="26" parent="globals/BinaryWatchView" pc="268435626" symbol="onShow"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="10" lineNum="28" parent="globals/BinaryWatchView" pc="268435628" symbol="onShow"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="11" lineNum="278" parent="globals/BinaryWatchView" pc="268435639" symbol="showBattery"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="11" lineNum="281" parent="globals/BinaryWatchView" pc="268435643" symbol="showBattery"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="11" lineNum="282" parent="globals/BinaryWatchView" pc="268435660" symbol="showBattery"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="11" lineNum="283" parent="globals/BinaryWatchView" pc="268435670" symbol="showBattery"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="11" lineNum="284" parent="globals/BinaryWatchView" pc="268435713" symbol="showBattery"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="11" lineNum="285" parent="globals/BinaryWatchView" pc="268435741" symbol="showBattery"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="11" lineNum="287" parent="globals/BinaryWatchView" pc="268435769" symbol="showBattery"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="11" lineNum="289" parent="globals/BinaryWatchView" pc="268435780" symbol="showBattery"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="11" lineNum="290" parent="globals/BinaryWatchView" pc="268435794" symbol="showBattery"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="11" lineNum="297" parent="globals/BinaryWatchView" pc="268435814" symbol="showBattery"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="11" lineNum="298" parent="globals/BinaryWatchView" pc="268435828" symbol="showBattery"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="12" lineNum="18" parent="globals/BinaryWatchView" pc="268435846" symbol="onLayout"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="12" lineNum="20" parent="globals/BinaryWatchView" pc="268435848" symbol="onLayout"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="13" lineNum="225" parent="globals/BinaryWatchView" pc="268435890" symbol="showTime"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="13" lineNum="228" parent="globals/BinaryWatchView" pc="268435894" symbol="showTime"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="13" lineNum="229" parent="globals/BinaryWatchView" pc="268435911" symbol="showTime"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="13" lineNum="230" parent="globals/BinaryWatchView" pc="268435921" symbol="showTime"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="13" lineNum="231" parent="globals/BinaryWatchView" pc="268435931" symbol="showTime"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="13" lineNum="234" parent="globals/BinaryWatchView" pc="268435960" symbol="showTime"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="13" lineNum="235" parent="globals/BinaryWatchView" pc="268435988" symbol="showTime"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="13" lineNum="236" parent="globals/BinaryWatchView" pc="268436003" symbol="showTime"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="13" lineNum="239" parent="globals/BinaryWatchView" pc="268436017" symbol="showTime"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="13" lineNum="240" parent="globals/BinaryWatchView" pc="268436045" symbol="showTime"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="13" lineNum="241" parent="globals/BinaryWatchView" pc="268436060" symbol="showTime"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="13" lineNum="244" parent="globals/BinaryWatchView" pc="268436074" symbol="showTime"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="13" lineNum="245" parent="globals/BinaryWatchView" pc="268436102" symbol="showTime"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="13" lineNum="246" parent="globals/BinaryWatchView" pc="268436117" symbol="showTime"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="14" lineNum="337" parent="globals/BinaryWatchView" pc="268436132" symbol="onEnterSleep"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="14" lineNum="339" parent="globals/BinaryWatchView" pc="268436134" symbol="onEnterSleep"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="31" parent="globals/BinaryWatchView" pc="268436145" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="33" parent="globals/BinaryWatchView" pc="268436149" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="35" parent="globals/BinaryWatchView" pc="268436149" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="37" parent="globals/BinaryWatchView" pc="268436151" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="40" parent="globals/BinaryWatchView" pc="268436171" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="43" parent="globals/BinaryWatchView" pc="268436191" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="46" parent="globals/BinaryWatchView" pc="268436211" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="49" parent="globals/BinaryWatchView" pc="268436231" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="52" parent="globals/BinaryWatchView" pc="268436251" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="55" parent="globals/BinaryWatchView" pc="268436271" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="58" parent="globals/BinaryWatchView" pc="268436291" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="61" parent="globals/BinaryWatchView" pc="268436311" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="64" parent="globals/BinaryWatchView" pc="268436331" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="67" parent="globals/BinaryWatchView" pc="268436351" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="70" parent="globals/BinaryWatchView" pc="268436371" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="73" parent="globals/BinaryWatchView" pc="268436391" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="76" parent="globals/BinaryWatchView" pc="268436411" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="79" parent="globals/BinaryWatchView" pc="268436431" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="82" parent="globals/BinaryWatchView" pc="268436451" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="85" parent="globals/BinaryWatchView" pc="268436471" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="88" parent="globals/BinaryWatchView" pc="268436491" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="91" parent="globals/BinaryWatchView" pc="268436511" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="94" parent="globals/BinaryWatchView" pc="268436531" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="97" parent="globals/BinaryWatchView" pc="268436551" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="100" parent="globals/BinaryWatchView" pc="268436571" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="103" parent="globals/BinaryWatchView" pc="268436591" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="106" parent="globals/BinaryWatchView" pc="268436611" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="109" parent="globals/BinaryWatchView" pc="268436631" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="112" parent="globals/BinaryWatchView" pc="268436651" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="115" parent="globals/BinaryWatchView" pc="268436671" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="118" parent="globals/BinaryWatchView" pc="268436691" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="121" parent="globals/BinaryWatchView" pc="268436711" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="124" parent="globals/BinaryWatchView" pc="268436731" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="127" parent="globals/BinaryWatchView" pc="268436751" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="130" parent="globals/BinaryWatchView" pc="268436771" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="133" parent="globals/BinaryWatchView" pc="268436791" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="136" parent="globals/BinaryWatchView" pc="268436811" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="139" parent="globals/BinaryWatchView" pc="268436831" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="142" parent="globals/BinaryWatchView" pc="268436851" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="145" parent="globals/BinaryWatchView" pc="268436871" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="148" parent="globals/BinaryWatchView" pc="268436891" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="151" parent="globals/BinaryWatchView" pc="268436911" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="154" parent="globals/BinaryWatchView" pc="268436931" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="157" parent="globals/BinaryWatchView" pc="268436951" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="160" parent="globals/BinaryWatchView" pc="268436971" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="163" parent="globals/BinaryWatchView" pc="268436991" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="166" parent="globals/BinaryWatchView" pc="268437011" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="169" parent="globals/BinaryWatchView" pc="268437031" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="172" parent="globals/BinaryWatchView" pc="268437051" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="175" parent="globals/BinaryWatchView" pc="268437071" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="178" parent="globals/BinaryWatchView" pc="268437091" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="181" parent="globals/BinaryWatchView" pc="268437111" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="184" parent="globals/BinaryWatchView" pc="268437131" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="187" parent="globals/BinaryWatchView" pc="268437151" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="190" parent="globals/BinaryWatchView" pc="268437171" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="193" parent="globals/BinaryWatchView" pc="268437191" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="196" parent="globals/BinaryWatchView" pc="268437211" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="199" parent="globals/BinaryWatchView" pc="268437231" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="202" parent="globals/BinaryWatchView" pc="268437251" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="205" parent="globals/BinaryWatchView" pc="268437271" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="208" parent="globals/BinaryWatchView" pc="268437291" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="211" parent="globals/BinaryWatchView" pc="268437311" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="214" parent="globals/BinaryWatchView" pc="268437331" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="217" parent="globals/BinaryWatchView" pc="268437351" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="38" parent="globals/BinaryWatchView" pc="268437354" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="39" parent="globals/BinaryWatchView" pc="268437361" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="41" parent="globals/BinaryWatchView" pc="268437364" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="42" parent="globals/BinaryWatchView" pc="268437371" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="44" parent="globals/BinaryWatchView" pc="268437374" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="45" parent="globals/BinaryWatchView" pc="268437381" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="47" parent="globals/BinaryWatchView" pc="268437384" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="48" parent="globals/BinaryWatchView" pc="268437391" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="50" parent="globals/BinaryWatchView" pc="268437394" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="51" parent="globals/BinaryWatchView" pc="268437401" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="53" parent="globals/BinaryWatchView" pc="268437404" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="54" parent="globals/BinaryWatchView" pc="268437411" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="56" parent="globals/BinaryWatchView" pc="268437414" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="57" parent="globals/BinaryWatchView" pc="268437421" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="59" parent="globals/BinaryWatchView" pc="268437424" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="60" parent="globals/BinaryWatchView" pc="268437431" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="62" parent="globals/BinaryWatchView" pc="268437434" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="63" parent="globals/BinaryWatchView" pc="268437441" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="65" parent="globals/BinaryWatchView" pc="268437444" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="66" parent="globals/BinaryWatchView" pc="268437451" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="68" parent="globals/BinaryWatchView" pc="268437454" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="69" parent="globals/BinaryWatchView" pc="268437461" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="71" parent="globals/BinaryWatchView" pc="268437464" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="72" parent="globals/BinaryWatchView" pc="268437471" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="74" parent="globals/BinaryWatchView" pc="268437474" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="75" parent="globals/BinaryWatchView" pc="268437481" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="77" parent="globals/BinaryWatchView" pc="268437484" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="78" parent="globals/BinaryWatchView" pc="268437491" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="80" parent="globals/BinaryWatchView" pc="268437494" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="81" parent="globals/BinaryWatchView" pc="268437501" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="83" parent="globals/BinaryWatchView" pc="268437504" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="84" parent="globals/BinaryWatchView" pc="268437511" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="86" parent="globals/BinaryWatchView" pc="268437514" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="87" parent="globals/BinaryWatchView" pc="268437521" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="89" parent="globals/BinaryWatchView" pc="268437524" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="90" parent="globals/BinaryWatchView" pc="268437531" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="92" parent="globals/BinaryWatchView" pc="268437534" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="93" parent="globals/BinaryWatchView" pc="268437541" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="95" parent="globals/BinaryWatchView" pc="268437544" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="96" parent="globals/BinaryWatchView" pc="268437551" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="98" parent="globals/BinaryWatchView" pc="268437554" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="99" parent="globals/BinaryWatchView" pc="268437561" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="101" parent="globals/BinaryWatchView" pc="268437564" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="102" parent="globals/BinaryWatchView" pc="268437571" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="104" parent="globals/BinaryWatchView" pc="268437574" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="105" parent="globals/BinaryWatchView" pc="268437581" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="107" parent="globals/BinaryWatchView" pc="268437584" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="108" parent="globals/BinaryWatchView" pc="268437591" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="110" parent="globals/BinaryWatchView" pc="268437594" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="111" parent="globals/BinaryWatchView" pc="268437601" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="113" parent="globals/BinaryWatchView" pc="268437604" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="114" parent="globals/BinaryWatchView" pc="268437611" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="116" parent="globals/BinaryWatchView" pc="268437614" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="117" parent="globals/BinaryWatchView" pc="268437621" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="119" parent="globals/BinaryWatchView" pc="268437624" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="120" parent="globals/BinaryWatchView" pc="268437631" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="122" parent="globals/BinaryWatchView" pc="268437634" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="123" parent="globals/BinaryWatchView" pc="268437641" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="125" parent="globals/BinaryWatchView" pc="268437644" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="126" parent="globals/BinaryWatchView" pc="268437651" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="128" parent="globals/BinaryWatchView" pc="268437654" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="129" parent="globals/BinaryWatchView" pc="268437661" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="131" parent="globals/BinaryWatchView" pc="268437664" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="132" parent="globals/BinaryWatchView" pc="268437671" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="134" parent="globals/BinaryWatchView" pc="268437674" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="135" parent="globals/BinaryWatchView" pc="268437681" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="137" parent="globals/BinaryWatchView" pc="268437684" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="138" parent="globals/BinaryWatchView" pc="268437691" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="140" parent="globals/BinaryWatchView" pc="268437694" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="141" parent="globals/BinaryWatchView" pc="268437701" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="143" parent="globals/BinaryWatchView" pc="268437704" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="144" parent="globals/BinaryWatchView" pc="268437711" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="146" parent="globals/BinaryWatchView" pc="268437714" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="147" parent="globals/BinaryWatchView" pc="268437721" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="149" parent="globals/BinaryWatchView" pc="268437724" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="150" parent="globals/BinaryWatchView" pc="268437731" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="152" parent="globals/BinaryWatchView" pc="268437734" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="153" parent="globals/BinaryWatchView" pc="268437741" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="155" parent="globals/BinaryWatchView" pc="268437744" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="156" parent="globals/BinaryWatchView" pc="268437751" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="158" parent="globals/BinaryWatchView" pc="268437754" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="159" parent="globals/BinaryWatchView" pc="268437761" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="161" parent="globals/BinaryWatchView" pc="268437764" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="162" parent="globals/BinaryWatchView" pc="268437771" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="164" parent="globals/BinaryWatchView" pc="268437774" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="165" parent="globals/BinaryWatchView" pc="268437781" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="167" parent="globals/BinaryWatchView" pc="268437784" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="168" parent="globals/BinaryWatchView" pc="268437791" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="170" parent="globals/BinaryWatchView" pc="268437794" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="171" parent="globals/BinaryWatchView" pc="268437801" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="173" parent="globals/BinaryWatchView" pc="268437804" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="174" parent="globals/BinaryWatchView" pc="268437811" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="176" parent="globals/BinaryWatchView" pc="268437814" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="177" parent="globals/BinaryWatchView" pc="268437821" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="179" parent="globals/BinaryWatchView" pc="268437824" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="180" parent="globals/BinaryWatchView" pc="268437831" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="182" parent="globals/BinaryWatchView" pc="268437834" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="183" parent="globals/BinaryWatchView" pc="268437841" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="185" parent="globals/BinaryWatchView" pc="268437844" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="186" parent="globals/BinaryWatchView" pc="268437851" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="188" parent="globals/BinaryWatchView" pc="268437854" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="189" parent="globals/BinaryWatchView" pc="268437861" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="191" parent="globals/BinaryWatchView" pc="268437864" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="192" parent="globals/BinaryWatchView" pc="268437871" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="194" parent="globals/BinaryWatchView" pc="268437874" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="195" parent="globals/BinaryWatchView" pc="268437881" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="197" parent="globals/BinaryWatchView" pc="268437884" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="198" parent="globals/BinaryWatchView" pc="268437891" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="200" parent="globals/BinaryWatchView" pc="268437894" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="201" parent="globals/BinaryWatchView" pc="268437901" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="203" parent="globals/BinaryWatchView" pc="268437904" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="204" parent="globals/BinaryWatchView" pc="268437911" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="206" parent="globals/BinaryWatchView" pc="268437914" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="207" parent="globals/BinaryWatchView" pc="268437921" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="209" parent="globals/BinaryWatchView" pc="268437924" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="210" parent="globals/BinaryWatchView" pc="268437931" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="212" parent="globals/BinaryWatchView" pc="268437934" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="213" parent="globals/BinaryWatchView" pc="268437941" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="215" parent="globals/BinaryWatchView" pc="268437944" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="216" parent="globals/BinaryWatchView" pc="268437951" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="218" parent="globals/BinaryWatchView" pc="268437954" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="219" parent="globals/BinaryWatchView" pc="268437961" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="222" parent="globals/BinaryWatchView" pc="268437965" symbol="toBin"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="16" lineNum="12" parent="globals/BinaryWatchView" pc="268437968" symbol="initialize"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="16" lineNum="14" parent="globals/BinaryWatchView" pc="268437970" symbol="initialize"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="18" lineNum="259" parent="globals/BinaryWatchView" pc="268437989" symbol="showDate"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="18" lineNum="262" parent="globals/BinaryWatchView" pc="268437993" symbol="showDate"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="18" lineNum="263" parent="globals/BinaryWatchView" pc="268438030" symbol="showDate"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="18" lineNum="270" parent="globals/BinaryWatchView" pc="268438120" symbol="showDate"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="18" lineNum="271" parent="globals/BinaryWatchView" pc="268438148" symbol="showDate"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="19" lineNum="310" parent="globals/BinaryWatchView" pc="268438182" symbol="onUpdate"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="19" lineNum="313" parent="globals/BinaryWatchView" pc="268438184" symbol="onUpdate"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="19" lineNum="316" parent="globals/BinaryWatchView" pc="268438196" symbol="onUpdate"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="19" lineNum="319" parent="globals/BinaryWatchView" pc="268438208" symbol="onUpdate"/>
-<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="19" lineNum="322" parent="globals/BinaryWatchView" pc="268438220" symbol="onUpdate"/>
-<entry filename="d:\\Programming\\monkeyC\\BinaryWatch\\bin\\gen\\006-B3282-00\\source\\Rez.mcgen" id="20" lineNum="20" parent="globals/Rez/Layouts" pc="268438245" symbol="WatchFace"/>
-<entry filename="d:\\Programming\\monkeyC\\BinaryWatch\\bin\\gen\\006-B3282-00\\source\\Rez.mcgen" id="20" lineNum="21" parent="globals/Rez/Layouts" pc="268438257" symbol="WatchFace"/>
-<entry filename="d:\\Programming\\monkeyC\\BinaryWatch\\bin\\gen\\006-B3282-00\\source\\Rez.mcgen" id="20" lineNum="23" parent="globals/Rez/Layouts" pc="268438369" symbol="WatchFace"/>
-<entry filename="d:\\Programming\\monkeyC\\BinaryWatch\\bin\\gen\\006-B3282-00\\source\\Rez.mcgen" id="20" lineNum="25" parent="globals/Rez/Layouts" pc="268438481" symbol="WatchFace"/>
-<entry filename="d:\\Programming\\monkeyC\\BinaryWatch\\bin\\gen\\006-B3282-00\\source\\Rez.mcgen" id="20" lineNum="27" parent="globals/Rez/Layouts" pc="268438593" symbol="WatchFace"/>
-<entry filename="d:\\Programming\\monkeyC\\BinaryWatch\\bin\\gen\\006-B3282-00\\source\\Rez.mcgen" id="20" lineNum="29" parent="globals/Rez/Layouts" pc="268438705" symbol="WatchFace"/>
-<entry filename="d:\\Programming\\monkeyC\\BinaryWatch\\bin\\gen\\006-B3282-00\\source\\Rez.mcgen" id="20" lineNum="31" parent="globals/Rez/Layouts" pc="268438817" symbol="WatchFace"/>
-<entry filename="d:\\Programming\\monkeyC\\BinaryWatch\\bin\\gen\\006-B3282-00\\source\\Rez.mcgen" id="20" lineNum="33" parent="globals/Rez/Layouts" pc="268438929" symbol="WatchFace"/>
+<entry filename="d:\\Programming\\monkeyC\\BinaryWatch\\bin\\gen\\006-B3992-00\\source\\Rez.mcgen" id="2" lineNum="7" parent="globals/Rez" pc="268435481" symbol="&lt;init&gt;"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchApp.mc" id="3" lineNum="5" parent="globals/BinaryWatchApp" pc="268435501" symbol="&lt;init&gt;"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="4" lineNum="8" parent="globals/BinaryWatchView" pc="268435513" symbol="&lt;init&gt;"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchApp.mc" id="5" lineNum="12" parent="globals/BinaryWatchApp" pc="268435525" symbol="onStart"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchApp.mc" id="6" lineNum="20" parent="globals/BinaryWatchApp" pc="268435528" symbol="getInitialView"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchApp.mc" id="6" lineNum="21" parent="globals/BinaryWatchApp" pc="268435530" symbol="getInitialView"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchApp.mc" id="7" lineNum="7" parent="globals/BinaryWatchApp" pc="268435560" symbol="initialize"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchApp.mc" id="7" lineNum="8" parent="globals/BinaryWatchApp" pc="268435562" symbol="initialize"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchApp.mc" id="8" lineNum="16" parent="globals/BinaryWatchApp" pc="268435575" symbol="onStop"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="9" lineNum="360" parent="globals/BinaryWatchView" pc="268435578" symbol="onExitSleep"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="9" lineNum="362" parent="globals/BinaryWatchView" pc="268435580" symbol="onExitSleep"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="10" lineNum="26" parent="globals/BinaryWatchView" pc="268435589" symbol="onShow"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="10" lineNum="28" parent="globals/BinaryWatchView" pc="268435591" symbol="onShow"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="11" lineNum="18" parent="globals/BinaryWatchView" pc="268435600" symbol="onLayout"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="11" lineNum="20" parent="globals/BinaryWatchView" pc="268435602" symbol="onLayout"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="12" lineNum="248" parent="globals/BinaryWatchView" pc="268435636" symbol="showTime"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="12" lineNum="251" parent="globals/BinaryWatchView" pc="268435639" symbol="showTime"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="12" lineNum="254" parent="globals/BinaryWatchView" pc="268435651" symbol="showTime"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="12" lineNum="255" parent="globals/BinaryWatchView" pc="268435659" symbol="showTime"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="12" lineNum="256" parent="globals/BinaryWatchView" pc="268435683" symbol="showTime"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="12" lineNum="257" parent="globals/BinaryWatchView" pc="268435695" symbol="showTime"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="12" lineNum="260" parent="globals/BinaryWatchView" pc="268435707" symbol="showTime"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="12" lineNum="261" parent="globals/BinaryWatchView" pc="268435715" symbol="showTime"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="12" lineNum="262" parent="globals/BinaryWatchView" pc="268435739" symbol="showTime"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="12" lineNum="263" parent="globals/BinaryWatchView" pc="268435751" symbol="showTime"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="12" lineNum="266" parent="globals/BinaryWatchView" pc="268435763" symbol="showTime"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="12" lineNum="267" parent="globals/BinaryWatchView" pc="268435771" symbol="showTime"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="12" lineNum="268" parent="globals/BinaryWatchView" pc="268435795" symbol="showTime"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="12" lineNum="269" parent="globals/BinaryWatchView" pc="268435823" symbol="showTime"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="13" lineNum="227" parent="globals/BinaryWatchView" pc="268435836" symbol="toBin2"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="13" lineNum="229" parent="globals/BinaryWatchView" pc="268435839" symbol="toBin2"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="13" lineNum="230" parent="globals/BinaryWatchView" pc="268435846" symbol="toBin2"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="13" lineNum="232" parent="globals/BinaryWatchView" pc="268435850" symbol="toBin2"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="13" lineNum="234" parent="globals/BinaryWatchView" pc="268435857" symbol="toBin2"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="13" lineNum="235" parent="globals/BinaryWatchView" pc="268435885" symbol="toBin2"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="13" lineNum="236" parent="globals/BinaryWatchView" pc="268435892" symbol="toBin2"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="13" lineNum="239" parent="globals/BinaryWatchView" pc="268435902" symbol="toBin2"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="13" lineNum="241" parent="globals/BinaryWatchView" pc="268435909" symbol="toBin2"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="13" lineNum="242" parent="globals/BinaryWatchView" pc="268435919" symbol="toBin2"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="13" lineNum="245" parent="globals/BinaryWatchView" pc="268435929" symbol="toBin2"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="14" lineNum="282" parent="globals/BinaryWatchView" pc="268435932" symbol="showDate"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="14" lineNum="285" parent="globals/BinaryWatchView" pc="268435935" symbol="showDate"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="14" lineNum="286" parent="globals/BinaryWatchView" pc="268435961" symbol="showDate"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="14" lineNum="293" parent="globals/BinaryWatchView" pc="268436024" symbol="showDate"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="14" lineNum="294" parent="globals/BinaryWatchView" pc="268436048" symbol="showDate"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="301" parent="globals/BinaryWatchView" pc="268436077" symbol="showBattery"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="304" parent="globals/BinaryWatchView" pc="268436080" symbol="showBattery"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="305" parent="globals/BinaryWatchView" pc="268436092" symbol="showBattery"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="309" parent="globals/BinaryWatchView" pc="268436100" symbol="showBattery"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="313" parent="globals/BinaryWatchView" pc="268436147" symbol="showBattery"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="314" parent="globals/BinaryWatchView" pc="268436171" symbol="showBattery"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="316" parent="globals/BinaryWatchView" pc="268436195" symbol="showBattery"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="318" parent="globals/BinaryWatchView" pc="268436203" symbol="showBattery"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="319" parent="globals/BinaryWatchView" pc="268436215" symbol="showBattery"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="326" parent="globals/BinaryWatchView" pc="268436233" symbol="showBattery"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="15" lineNum="327" parent="globals/BinaryWatchView" pc="268436245" symbol="showBattery"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="16" lineNum="366" parent="globals/BinaryWatchView" pc="268436261" symbol="onEnterSleep"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="16" lineNum="368" parent="globals/BinaryWatchView" pc="268436263" symbol="onEnterSleep"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="32" parent="globals/BinaryWatchView" pc="268436272" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="34" parent="globals/BinaryWatchView" pc="268436275" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="36" parent="globals/BinaryWatchView" pc="268436282" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="38" parent="globals/BinaryWatchView" pc="268436284" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="41" parent="globals/BinaryWatchView" pc="268436299" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="44" parent="globals/BinaryWatchView" pc="268436315" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="47" parent="globals/BinaryWatchView" pc="268436331" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="50" parent="globals/BinaryWatchView" pc="268436347" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="53" parent="globals/BinaryWatchView" pc="268436363" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="56" parent="globals/BinaryWatchView" pc="268436379" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="59" parent="globals/BinaryWatchView" pc="268436395" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="62" parent="globals/BinaryWatchView" pc="268436411" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="65" parent="globals/BinaryWatchView" pc="268436427" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="68" parent="globals/BinaryWatchView" pc="268436443" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="71" parent="globals/BinaryWatchView" pc="268436459" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="74" parent="globals/BinaryWatchView" pc="268436475" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="77" parent="globals/BinaryWatchView" pc="268436491" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="80" parent="globals/BinaryWatchView" pc="268436507" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="83" parent="globals/BinaryWatchView" pc="268436523" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="86" parent="globals/BinaryWatchView" pc="268436539" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="89" parent="globals/BinaryWatchView" pc="268436555" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="92" parent="globals/BinaryWatchView" pc="268436571" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="95" parent="globals/BinaryWatchView" pc="268436587" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="98" parent="globals/BinaryWatchView" pc="268436603" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="101" parent="globals/BinaryWatchView" pc="268436619" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="104" parent="globals/BinaryWatchView" pc="268436635" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="107" parent="globals/BinaryWatchView" pc="268436651" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="110" parent="globals/BinaryWatchView" pc="268436667" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="113" parent="globals/BinaryWatchView" pc="268436683" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="116" parent="globals/BinaryWatchView" pc="268436699" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="119" parent="globals/BinaryWatchView" pc="268436715" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="122" parent="globals/BinaryWatchView" pc="268436731" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="125" parent="globals/BinaryWatchView" pc="268436747" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="128" parent="globals/BinaryWatchView" pc="268436763" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="131" parent="globals/BinaryWatchView" pc="268436779" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="134" parent="globals/BinaryWatchView" pc="268436795" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="137" parent="globals/BinaryWatchView" pc="268436811" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="140" parent="globals/BinaryWatchView" pc="268436827" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="143" parent="globals/BinaryWatchView" pc="268436843" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="146" parent="globals/BinaryWatchView" pc="268436859" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="149" parent="globals/BinaryWatchView" pc="268436875" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="152" parent="globals/BinaryWatchView" pc="268436891" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="155" parent="globals/BinaryWatchView" pc="268436907" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="158" parent="globals/BinaryWatchView" pc="268436923" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="161" parent="globals/BinaryWatchView" pc="268436939" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="164" parent="globals/BinaryWatchView" pc="268436955" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="167" parent="globals/BinaryWatchView" pc="268436971" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="170" parent="globals/BinaryWatchView" pc="268436987" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="173" parent="globals/BinaryWatchView" pc="268437003" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="176" parent="globals/BinaryWatchView" pc="268437019" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="179" parent="globals/BinaryWatchView" pc="268437035" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="182" parent="globals/BinaryWatchView" pc="268437051" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="185" parent="globals/BinaryWatchView" pc="268437067" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="188" parent="globals/BinaryWatchView" pc="268437083" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="191" parent="globals/BinaryWatchView" pc="268437099" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="194" parent="globals/BinaryWatchView" pc="268437115" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="197" parent="globals/BinaryWatchView" pc="268437131" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="200" parent="globals/BinaryWatchView" pc="268437147" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="203" parent="globals/BinaryWatchView" pc="268437163" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="206" parent="globals/BinaryWatchView" pc="268437179" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="209" parent="globals/BinaryWatchView" pc="268437195" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="212" parent="globals/BinaryWatchView" pc="268437211" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="215" parent="globals/BinaryWatchView" pc="268437227" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="218" parent="globals/BinaryWatchView" pc="268437243" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="39" parent="globals/BinaryWatchView" pc="268437246" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="40" parent="globals/BinaryWatchView" pc="268437253" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="42" parent="globals/BinaryWatchView" pc="268437256" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="43" parent="globals/BinaryWatchView" pc="268437263" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="45" parent="globals/BinaryWatchView" pc="268437266" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="46" parent="globals/BinaryWatchView" pc="268437273" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="48" parent="globals/BinaryWatchView" pc="268437276" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="49" parent="globals/BinaryWatchView" pc="268437283" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="51" parent="globals/BinaryWatchView" pc="268437286" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="52" parent="globals/BinaryWatchView" pc="268437293" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="54" parent="globals/BinaryWatchView" pc="268437296" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="55" parent="globals/BinaryWatchView" pc="268437303" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="57" parent="globals/BinaryWatchView" pc="268437306" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="58" parent="globals/BinaryWatchView" pc="268437313" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="60" parent="globals/BinaryWatchView" pc="268437316" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="61" parent="globals/BinaryWatchView" pc="268437323" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="63" parent="globals/BinaryWatchView" pc="268437326" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="64" parent="globals/BinaryWatchView" pc="268437333" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="66" parent="globals/BinaryWatchView" pc="268437336" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="67" parent="globals/BinaryWatchView" pc="268437343" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="69" parent="globals/BinaryWatchView" pc="268437346" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="70" parent="globals/BinaryWatchView" pc="268437353" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="72" parent="globals/BinaryWatchView" pc="268437356" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="73" parent="globals/BinaryWatchView" pc="268437363" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="75" parent="globals/BinaryWatchView" pc="268437366" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="76" parent="globals/BinaryWatchView" pc="268437373" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="78" parent="globals/BinaryWatchView" pc="268437376" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="79" parent="globals/BinaryWatchView" pc="268437383" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="81" parent="globals/BinaryWatchView" pc="268437386" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="82" parent="globals/BinaryWatchView" pc="268437393" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="84" parent="globals/BinaryWatchView" pc="268437396" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="85" parent="globals/BinaryWatchView" pc="268437403" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="87" parent="globals/BinaryWatchView" pc="268437406" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="88" parent="globals/BinaryWatchView" pc="268437413" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="90" parent="globals/BinaryWatchView" pc="268437416" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="91" parent="globals/BinaryWatchView" pc="268437423" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="93" parent="globals/BinaryWatchView" pc="268437426" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="94" parent="globals/BinaryWatchView" pc="268437433" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="96" parent="globals/BinaryWatchView" pc="268437436" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="97" parent="globals/BinaryWatchView" pc="268437443" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="99" parent="globals/BinaryWatchView" pc="268437446" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="100" parent="globals/BinaryWatchView" pc="268437453" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="102" parent="globals/BinaryWatchView" pc="268437456" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="103" parent="globals/BinaryWatchView" pc="268437463" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="105" parent="globals/BinaryWatchView" pc="268437466" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="106" parent="globals/BinaryWatchView" pc="268437473" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="108" parent="globals/BinaryWatchView" pc="268437476" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="109" parent="globals/BinaryWatchView" pc="268437483" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="111" parent="globals/BinaryWatchView" pc="268437486" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="112" parent="globals/BinaryWatchView" pc="268437493" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="114" parent="globals/BinaryWatchView" pc="268437496" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="115" parent="globals/BinaryWatchView" pc="268437503" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="117" parent="globals/BinaryWatchView" pc="268437506" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="118" parent="globals/BinaryWatchView" pc="268437513" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="120" parent="globals/BinaryWatchView" pc="268437516" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="121" parent="globals/BinaryWatchView" pc="268437523" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="123" parent="globals/BinaryWatchView" pc="268437526" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="124" parent="globals/BinaryWatchView" pc="268437533" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="126" parent="globals/BinaryWatchView" pc="268437536" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="127" parent="globals/BinaryWatchView" pc="268437543" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="129" parent="globals/BinaryWatchView" pc="268437546" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="130" parent="globals/BinaryWatchView" pc="268437553" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="132" parent="globals/BinaryWatchView" pc="268437556" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="133" parent="globals/BinaryWatchView" pc="268437563" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="135" parent="globals/BinaryWatchView" pc="268437566" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="136" parent="globals/BinaryWatchView" pc="268437573" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="138" parent="globals/BinaryWatchView" pc="268437576" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="139" parent="globals/BinaryWatchView" pc="268437583" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="141" parent="globals/BinaryWatchView" pc="268437586" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="142" parent="globals/BinaryWatchView" pc="268437593" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="144" parent="globals/BinaryWatchView" pc="268437596" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="145" parent="globals/BinaryWatchView" pc="268437603" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="147" parent="globals/BinaryWatchView" pc="268437606" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="148" parent="globals/BinaryWatchView" pc="268437613" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="150" parent="globals/BinaryWatchView" pc="268437616" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="151" parent="globals/BinaryWatchView" pc="268437623" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="153" parent="globals/BinaryWatchView" pc="268437626" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="154" parent="globals/BinaryWatchView" pc="268437633" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="156" parent="globals/BinaryWatchView" pc="268437636" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="157" parent="globals/BinaryWatchView" pc="268437643" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="159" parent="globals/BinaryWatchView" pc="268437646" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="160" parent="globals/BinaryWatchView" pc="268437653" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="162" parent="globals/BinaryWatchView" pc="268437656" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="163" parent="globals/BinaryWatchView" pc="268437663" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="165" parent="globals/BinaryWatchView" pc="268437666" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="166" parent="globals/BinaryWatchView" pc="268437673" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="168" parent="globals/BinaryWatchView" pc="268437676" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="169" parent="globals/BinaryWatchView" pc="268437683" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="171" parent="globals/BinaryWatchView" pc="268437686" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="172" parent="globals/BinaryWatchView" pc="268437693" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="174" parent="globals/BinaryWatchView" pc="268437696" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="175" parent="globals/BinaryWatchView" pc="268437703" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="177" parent="globals/BinaryWatchView" pc="268437706" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="178" parent="globals/BinaryWatchView" pc="268437713" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="180" parent="globals/BinaryWatchView" pc="268437716" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="181" parent="globals/BinaryWatchView" pc="268437723" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="183" parent="globals/BinaryWatchView" pc="268437726" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="184" parent="globals/BinaryWatchView" pc="268437733" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="186" parent="globals/BinaryWatchView" pc="268437736" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="187" parent="globals/BinaryWatchView" pc="268437743" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="189" parent="globals/BinaryWatchView" pc="268437746" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="190" parent="globals/BinaryWatchView" pc="268437753" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="192" parent="globals/BinaryWatchView" pc="268437756" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="193" parent="globals/BinaryWatchView" pc="268437763" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="195" parent="globals/BinaryWatchView" pc="268437766" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="196" parent="globals/BinaryWatchView" pc="268437773" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="198" parent="globals/BinaryWatchView" pc="268437776" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="199" parent="globals/BinaryWatchView" pc="268437783" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="201" parent="globals/BinaryWatchView" pc="268437786" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="202" parent="globals/BinaryWatchView" pc="268437793" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="204" parent="globals/BinaryWatchView" pc="268437796" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="205" parent="globals/BinaryWatchView" pc="268437803" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="207" parent="globals/BinaryWatchView" pc="268437806" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="208" parent="globals/BinaryWatchView" pc="268437813" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="210" parent="globals/BinaryWatchView" pc="268437816" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="211" parent="globals/BinaryWatchView" pc="268437823" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="213" parent="globals/BinaryWatchView" pc="268437826" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="214" parent="globals/BinaryWatchView" pc="268437833" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="216" parent="globals/BinaryWatchView" pc="268437836" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="217" parent="globals/BinaryWatchView" pc="268437843" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="219" parent="globals/BinaryWatchView" pc="268437846" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="220" parent="globals/BinaryWatchView" pc="268437853" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="17" lineNum="223" parent="globals/BinaryWatchView" pc="268437857" symbol="toBin"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="18" lineNum="12" parent="globals/BinaryWatchView" pc="268437860" symbol="initialize"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="18" lineNum="14" parent="globals/BinaryWatchView" pc="268437862" symbol="initialize"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="20" lineNum="339" parent="globals/BinaryWatchView" pc="268437875" symbol="onUpdate"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="20" lineNum="342" parent="globals/BinaryWatchView" pc="268437877" symbol="onUpdate"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="20" lineNum="345" parent="globals/BinaryWatchView" pc="268437884" symbol="onUpdate"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="20" lineNum="348" parent="globals/BinaryWatchView" pc="268437891" symbol="onUpdate"/>
+<entry filename="D:\\Programming\\monkeyC\\BinaryWatch\\source\\BinaryWatchView.mc" id="20" lineNum="351" parent="globals/BinaryWatchView" pc="268437898" symbol="onUpdate"/>
+<entry filename="d:\\Programming\\monkeyC\\BinaryWatch\\bin\\gen\\006-B3992-00\\source\\Rez.mcgen" id="21" lineNum="14" parent="globals/Rez/Layouts" pc="268437919" symbol="WatchFace"/>
+<entry filename="d:\\Programming\\monkeyC\\BinaryWatch\\bin\\gen\\006-B3992-00\\source\\Rez.mcgen" id="21" lineNum="15" parent="globals/Rez/Layouts" pc="268437930" symbol="WatchFace"/>
+<entry filename="d:\\Programming\\monkeyC\\BinaryWatch\\bin\\gen\\006-B3992-00\\source\\Rez.mcgen" id="21" lineNum="17" parent="globals/Rez/Layouts" pc="268438018" symbol="WatchFace"/>
+<entry filename="d:\\Programming\\monkeyC\\BinaryWatch\\bin\\gen\\006-B3992-00\\source\\Rez.mcgen" id="21" lineNum="19" parent="globals/Rez/Layouts" pc="268438107" symbol="WatchFace"/>
+<entry filename="d:\\Programming\\monkeyC\\BinaryWatch\\bin\\gen\\006-B3992-00\\source\\Rez.mcgen" id="21" lineNum="21" parent="globals/Rez/Layouts" pc="268438196" symbol="WatchFace"/>
+<entry filename="d:\\Programming\\monkeyC\\BinaryWatch\\bin\\gen\\006-B3992-00\\source\\Rez.mcgen" id="21" lineNum="23" parent="globals/Rez/Layouts" pc="268438285" symbol="WatchFace"/>
+<entry filename="d:\\Programming\\monkeyC\\BinaryWatch\\bin\\gen\\006-B3992-00\\source\\Rez.mcgen" id="21" lineNum="25" parent="globals/Rez/Layouts" pc="268438374" symbol="WatchFace"/>
+<entry filename="d:\\Programming\\monkeyC\\BinaryWatch\\bin\\gen\\006-B3992-00\\source\\Rez.mcgen" id="21" lineNum="27" parent="globals/Rez/Layouts" pc="268438463" symbol="WatchFace"/>
 </pcToLineNum>
 <symbolTable>
 <entry id="8388639" module="true" symbol="Graphics"/>
 <entry id="8388632" method="true" symbol="&lt;init&gt;"/>
-<entry id="7" module="true" symbol="globals/Rez/Menus"/>
-<entry id="10" object="true" symbol="BinaryWatchView"/>
-<entry field="true" id="18" symbol="BinaryLogo"/>
+<entry id="7" object="true" symbol="BinaryWatchView"/>
+<entry field="true" id="15" symbol="BinaryLogo"/>
 <entry id="8388924" module="true" symbol="Gregorian"/>
 <entry field="true" id="8388611" module="true" symbol="Toybox"/>
-<entry field="true" id="20" symbol="AppName"/>
-<entry id="8" module="true" symbol="globals/Rez/Strings"/>
-<entry id="8388772" module="true" object="true" symbol="Fonts"/>
-<entry field="true" id="13" symbol="isAwake"/>
+<entry field="true" id="17" symbol="AppName"/>
+<entry id="5" module="true" symbol="globals/Rez/Strings"/>
+<entry field="true" id="9" symbol="isAwake"/>
 <entry id="8388648" module="true" symbol="WatchUi"/>
-<entry id="14" method="true" symbol="showBattery"/>
+<entry id="10" method="true" symbol="showBattery"/>
 <entry id="2" module="true" symbol="globals/Rez"/>
 <entry id="8389124" method="true" symbol="onUpdate"/>
 <entry id="8389375" method="true" object="true" symbol="WatchFace"/>
@@ -275,149 +284,97 @@
 <entry field="true" id="8389064" symbol="locX"/>
 <entry id="8388771" module="true" object="true" symbol="Drawables"/>
 <entry id="8389348" symbol="font"/>
-<entry id="12" module="true" symbol="Menus"/>
 <entry id="8389275" method="true" symbol="getApp"/>
-<entry id="6" module="true" symbol="globals/Rez/Layouts"/>
+<entry id="4" module="true" symbol="globals/Rez/Layouts"/>
+<entry id="14" method="true" symbol="toBin2"/>
 <entry id="8389122" method="true" symbol="onLayout"/>
 <entry id="8389376" method="true" symbol="onEnterSleep"/>
 <entry field="true" id="8389063" symbol="identifier"/>
 <entry id="8389349" symbol="justification"/>
-<entry id="5" module="true" symbol="globals/Rez/JsonData"/>
 <entry id="3" module="true" symbol="globals/Rez/Drawables"/>
 <entry id="8389377" method="true" symbol="onExitSleep"/>
 <entry id="8388644" module="true" symbol="System"/>
 <entry id="8388645" module="true" symbol="Time"/>
 <entry id="8388769" module="true" object="true" symbol="Rez"/>
 <entry id="8388640" module="true" symbol="Lang"/>
-<entry id="8390088" module="true" object="true" symbol="JsonData"/>
-<entry field="true" id="19" symbol="LauncherIcon"/>
+<entry field="true" id="16" symbol="LauncherIcon"/>
 <entry id="8388610" symbol="statics"/>
 <entry id="8389123" method="true" symbol="onShow"/>
-<entry id="17" method="true" symbol="toBin"/>
+<entry id="13" method="true" symbol="toBin"/>
 <entry id="8389350" module="true" symbol="globals"/>
-<entry id="15" method="true" symbol="showDate"/>
+<entry id="11" method="true" symbol="showDate"/>
 <entry id="8388770" module="true" object="true" symbol="Strings"/>
 <entry id="8388702" method="true" symbol="initialize"/>
 <entry id="8389279" method="true" symbol="onStart"/>
 <entry id="8389280" method="true" symbol="getInitialView"/>
 <entry id="8389281" method="true" symbol="onStop"/>
 <entry id="8389347" symbol="color"/>
-<entry id="11" module="true" symbol="Layouts"/>
-<entry id="16" method="true" symbol="showTime"/>
-<entry id="4" module="true" symbol="globals/Rez/Fonts"/>
+<entry id="8" module="true" symbol="Layouts"/>
+<entry id="12" method="true" symbol="showTime"/>
 <entry id="8389125" method="true" symbol="onHide"/>
 <entry id="8388635" module="true" symbol="Application"/>
-<entry id="9" object="true" symbol="BinaryWatchApp"/>
+<entry id="6" object="true" symbol="BinaryWatchApp"/>
 </symbolTable>
 <localVars>
-<entry endPc="268435844" name="systemStats" stackId="1" startPc="268435643"/>
-<entry endPc="268435844" name="batteryPercent" stackId="2" startPc="268435643"/>
-<entry endPc="268435844" name="batteryString" stackId="3" startPc="268435643"/>
-<entry endPc="268435844" name="viewBattery" stackId="4" startPc="268435643"/>
-<entry endPc="268435844" name="viewBatteryLOW" stackId="5" startPc="268435643"/>
-<entry arg="true" endPc="268435889" name="dc" stackId="1" startPc="268435846"/>
-<entry endPc="268436130" name="clockTime" stackId="1" startPc="268435894"/>
-<entry endPc="268436130" name="HrString" stackId="2" startPc="268435894"/>
-<entry endPc="268436130" name="MinString" stackId="3" startPc="268435894"/>
-<entry endPc="268436130" name="secString" stackId="4" startPc="268435894"/>
-<entry endPc="268436130" name="viewTimeHr" stackId="5" startPc="268435894"/>
-<entry endPc="268436130" name="binHr" stackId="6" startPc="268435894"/>
-<entry endPc="268436130" name="viewTimeMin" stackId="7" startPc="268435894"/>
-<entry endPc="268436130" name="binMin" stackId="8" startPc="268435894"/>
-<entry endPc="268436130" name="viewTimeSec" stackId="9" startPc="268435894"/>
-<entry endPc="268436130" name="binSec" stackId="10" startPc="268435894"/>
-<entry arg="true" endPc="268437967" name="num" stackId="1" startPc="268436145"/>
-<entry endPc="268437967" name="binOut" stackId="2" startPc="268436149"/>
-<entry endPc="268438180" name="date" stackId="1" startPc="268437993"/>
-<entry endPc="268438180" name="dateString" stackId="2" startPc="268437993"/>
-<entry endPc="268438180" name="viewDate" stackId="3" startPc="268437993"/>
-<entry arg="true" endPc="268438244" name="dc" stackId="1" startPc="268438182"/>
-<entry arg="true" endPc="268438995" name="dc" stackId="1" startPc="268438245"/>
-<entry endPc="268438995" name="rez_cmp_local_text_TimeHr" stackId="2" startPc="268438257"/>
-<entry endPc="268438995" name="rez_cmp_local_text_TimeMin" stackId="3" startPc="268438257"/>
-<entry endPc="268438995" name="rez_cmp_local_text_TimeSec" stackId="4" startPc="268438257"/>
-<entry endPc="268438995" name="rez_cmp_local_text_Date" stackId="5" startPc="268438257"/>
-<entry endPc="268438995" name="rez_cmp_local_text_Battery" stackId="6" startPc="268438257"/>
-<entry endPc="268438995" name="rez_cmp_local_text_BatteryLOW" stackId="7" startPc="268438257"/>
+<entry arg="true" endPc="268435635" name="dc" stackId="1" startPc="268435600"/>
+<entry endPc="268435834" name="clockTime" stackId="1" startPc="268435639"/>
+<entry endPc="268435834" name="HrString" stackId="2" startPc="268435639"/>
+<entry endPc="268435834" name="viewTimeHr" stackId="3" startPc="268435639"/>
+<entry endPc="268435834" name="binHr" stackId="4" startPc="268435639"/>
+<entry endPc="268435834" name="MinString" stackId="5" startPc="268435639"/>
+<entry endPc="268435834" name="viewTimeMin" stackId="6" startPc="268435639"/>
+<entry endPc="268435834" name="binMin" stackId="7" startPc="268435639"/>
+<entry endPc="268435834" name="secString" stackId="8" startPc="268435639"/>
+<entry endPc="268435834" name="viewTimeSec" stackId="9" startPc="268435639"/>
+<entry endPc="268435834" name="binSec" stackId="10" startPc="268435639"/>
+<entry arg="true" endPc="268435931" name="num" stackId="1" startPc="268435836"/>
+<entry endPc="268435931" name="binOut" stackId="2" startPc="268435839"/>
+<entry endPc="268435931" name="i" stackId="3" startPc="268435839"/>
+<entry endPc="268436075" name="date" stackId="1" startPc="268435935"/>
+<entry endPc="268436075" name="dateString" stackId="2" startPc="268435935"/>
+<entry endPc="268436075" name="viewDate" stackId="3" startPc="268435935"/>
+<entry endPc="268436259" name="systemStats" stackId="1" startPc="268436080"/>
+<entry endPc="268436259" name="batteryPercent" stackId="2" startPc="268436080"/>
+<entry endPc="268436259" name="batteryString" stackId="3" startPc="268436080"/>
+<entry endPc="268436259" name="viewBattery" stackId="4" startPc="268436080"/>
+<entry endPc="268436259" name="viewBatteryLOW" stackId="5" startPc="268436080"/>
+<entry arg="true" endPc="268437859" name="num" stackId="1" startPc="268436272"/>
+<entry endPc="268437859" name="binOut" stackId="2" startPc="268436275"/>
+<entry arg="true" endPc="268437918" name="dc" stackId="1" startPc="268437875"/>
+<entry arg="true" endPc="268438497" name="dc" stackId="1" startPc="268437919"/>
+<entry endPc="268438497" name="rez_cmp_local_text_TimeHr" stackId="2" startPc="268437930"/>
+<entry endPc="268438497" name="rez_cmp_local_text_TimeMin" stackId="3" startPc="268437930"/>
+<entry endPc="268438497" name="rez_cmp_local_text_TimeSec" stackId="4" startPc="268437930"/>
+<entry endPc="268438497" name="rez_cmp_local_text_Date" stackId="5" startPc="268437930"/>
+<entry endPc="268438497" name="rez_cmp_local_text_Battery" stackId="6" startPc="268437930"/>
+<entry endPc="268438497" name="rez_cmp_local_text_BatteryLOW" stackId="7" startPc="268437930"/>
 </localVars>
+<deviceInfo deviceVersion="3ec88d10900803ee2943328b35e298d1bb9907df" partNumber="006-B3992-00"/>
 <annotations>
 <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="LauncherIcon"/>
 <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="BinaryLogo"/>
 <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="AppName"/>
 </annotations>
 <dataEntryOffsetMappings>
-<dataEntry label="globals" offset="87" parentId="" symbolId="globals" type="module"/>
-<dataEntry label="globals/Rez" offset="158" parentId="globals" symbolId="Rez" type="module"/>
-<dataEntry label="globals/BinaryWatchApp" offset="237" parentId="globals" symbolId="BinaryWatchApp" type="class"/>
-<dataEntry label="globals/BinaryWatchView" offset="308" parentId="globals" symbolId="BinaryWatchView" type="class"/>
-<dataEntry label="globals/Rez/Drawables" offset="443" parentId="Rez" symbolId="Drawables" type="module"/>
-<dataEntry label="globals/Rez/Layouts" offset="490" parentId="Rez" symbolId="Layouts" type="module"/>
-<dataEntry label="globals/Rez/Menus" offset="529" parentId="Rez" symbolId="Menus" type="module"/>
-<dataEntry label="globals/Rez/Fonts" offset="560" parentId="Rez" symbolId="Fonts" type="module"/>
-<dataEntry label="globals/Rez/Strings" offset="591" parentId="Rez" symbolId="Strings" type="module"/>
-<dataEntry label="globals/Rez/JsonData" offset="630" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry label="globals" offset="58" parentId="" symbolId="globals" type="module"/>
+<dataEntry label="globals/Rez" offset="125" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry label="globals/BinaryWatchApp" offset="178" parentId="globals" symbolId="BinaryWatchApp" type="class"/>
+<dataEntry label="globals/BinaryWatchView" offset="249" parentId="globals" symbolId="BinaryWatchView" type="class"/>
+<dataEntry label="globals/Rez/Drawables" offset="401" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry label="globals/Rez/Layouts" offset="445" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry label="globals/Rez/Strings" offset="480" parentId="Rez" symbolId="Strings" type="module"/>
 </dataEntryOffsetMappings>
 <functions>
-<functionEntry accessMode="public" endPc="268435485" name="getApp" startPc="268435460">
+<functionEntry accessMode="public" endPc="268435480" name="getApp" startPc="268435460">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268435504" name="&lt;init&gt;" parent="Rez" startPc="268435486">
+<functionEntry accessMode="public" endPc="268435500" name="&lt;init&gt;" parent="Rez" startPc="268435481">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268435523" name="&lt;init&gt;" parent="BinaryWatchApp" startPc="268435505">
+<functionEntry accessMode="public" endPc="268435512" name="&lt;init&gt;" parent="BinaryWatchApp" startPc="268435501">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268435526" name="onStart" parent="BinaryWatchApp" startPc="268435524">
-<param id="state"/>
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" endPc="268435569" name="getInitialView" parent="BinaryWatchApp" startPc="268435527">
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" endPc="268435590" name="initialize" parent="BinaryWatchApp" startPc="268435570">
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" endPc="268435593" name="onStop" parent="BinaryWatchApp" startPc="268435591">
-<param id="state"/>
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" endPc="268435612" name="&lt;init&gt;" parent="BinaryWatchView" startPc="268435594">
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" endPc="268435625" name="onExitSleep" parent="BinaryWatchView" startPc="268435613">
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" endPc="268435638" name="onShow" parent="BinaryWatchView" startPc="268435626">
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" endPc="268435845" name="showBattery" parent="BinaryWatchView" startPc="268435639">
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" endPc="268435889" name="onLayout" parent="BinaryWatchView" startPc="268435846">
-<param id="dc"/>
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" endPc="268436131" name="showTime" parent="BinaryWatchView" startPc="268435890">
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" endPc="268436144" name="onEnterSleep" parent="BinaryWatchView" startPc="268436132">
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" endPc="268437967" name="toBin" parent="BinaryWatchView" startPc="268436145">
-<param id="num"/>
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" endPc="268437988" name="initialize" parent="BinaryWatchView" startPc="268437968">
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="onHide" parent="BinaryWatchView">
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" endPc="268438181" name="showDate" parent="BinaryWatchView" startPc="268437989">
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" endPc="268438244" name="onUpdate" parent="BinaryWatchView" startPc="268438182">
-<param id="dc"/>
+<functionEntry accessMode="public" endPc="268435524" name="&lt;init&gt;" parent="BinaryWatchView" startPc="268435513">
 <documentation/>
 </functionEntry>
 <functionEntry accessMode="public" name="&lt;init&gt;" parent="Drawables">
@@ -426,19 +383,64 @@
 <functionEntry accessMode="public" name="&lt;init&gt;" parent="Layouts">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" name="&lt;init&gt;" parent="Menus">
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="&lt;init&gt;" parent="Fonts">
-<documentation/>
-</functionEntry>
 <functionEntry accessMode="public" name="&lt;init&gt;" parent="Strings">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" name="&lt;init&gt;" parent="JsonData">
+<functionEntry accessMode="public" endPc="268435527" name="onStart" parent="BinaryWatchApp" startPc="268435525">
+<param id="state"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268438995" name="WatchFace" parent="Layouts" startPc="268438245">
+<functionEntry accessMode="public" endPc="268435559" name="getInitialView" parent="BinaryWatchApp" startPc="268435528">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435574" name="initialize" parent="BinaryWatchApp" startPc="268435560">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435577" name="onStop" parent="BinaryWatchApp" startPc="268435575">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435588" name="onExitSleep" parent="BinaryWatchView" startPc="268435578">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435599" name="onShow" parent="BinaryWatchView" startPc="268435589">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435635" name="onLayout" parent="BinaryWatchView" startPc="268435600">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435835" name="showTime" parent="BinaryWatchView" startPc="268435636">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435931" name="toBin2" parent="BinaryWatchView" startPc="268435836">
+<param id="num"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436076" name="showDate" parent="BinaryWatchView" startPc="268435932">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436260" name="showBattery" parent="BinaryWatchView" startPc="268436077">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436271" name="onEnterSleep" parent="BinaryWatchView" startPc="268436261">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268437859" name="toBin" parent="BinaryWatchView" startPc="268436272">
+<param id="num"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268437874" name="initialize" parent="BinaryWatchView" startPc="268437860">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onHide" parent="BinaryWatchView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268437918" name="onUpdate" parent="BinaryWatchView" startPc="268437875">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268438497" name="WatchFace" parent="Layouts" startPc="268437919">
 <param id="dc"/>
 <documentation/>
 </functionEntry>

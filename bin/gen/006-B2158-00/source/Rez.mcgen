@@ -1,0 +1,34 @@
+import Toybox.Lang;
+using Toybox.WatchUi;
+using Toybox.WatchUi as Ui;
+using Toybox.Graphics;
+using Toybox.Graphics as Gfx;
+
+module Rez {
+    module Drawables {
+        (:initialized) var LauncherIcon as ResourceId;
+        (:initialized) var BinaryLogo as ResourceId;
+    } // Drawables
+
+    module Layouts {
+        function WatchFace(dc as Graphics.Dc) as Array<WatchUi.Drawable> {
+            var rez_cmp_local_text_TimeHr = new WatchUi.Text({:identifier=>"TimeHr", :color=>Graphics.COLOR_BLUE, :locX=>(215 * 0.5), :locY=>(180 * (18 / 100.0)), :justification=>Graphics.TEXT_JUSTIFY_CENTER, :font=>Graphics.FONT_NUMBER_HOT});
+
+            var rez_cmp_local_text_TimeMin = new WatchUi.Text({:identifier=>"TimeMin", :color=>Graphics.COLOR_WHITE, :locX=>(215 * 0.5), :locY=>(180 * (42 / 100.0)), :justification=>Graphics.TEXT_JUSTIFY_CENTER, :font=>Graphics.FONT_NUMBER_HOT});
+
+            var rez_cmp_local_text_TimeSec = new WatchUi.Text({:identifier=>"TimeSec", :color=>Graphics.COLOR_WHITE, :locX=>(215 * 0.5), :locY=>(180 * (73 / 100.0)), :justification=>Graphics.TEXT_JUSTIFY_CENTER, :font=>Graphics.FONT_SMALL});
+
+            var rez_cmp_local_text_Date = new WatchUi.Text({:identifier=>"Date", :color=>Graphics.COLOR_WHITE, :locX=>(215 * 0.5), :locY=>(180 * (2 / 100.0)), :justification=>Graphics.TEXT_JUSTIFY_CENTER, :font=>Graphics.FONT_SMALL});
+
+            var rez_cmp_local_text_Battery = new WatchUi.Text({:identifier=>"Battery", :color=>Graphics.COLOR_WHITE, :locX=>(215 * 0.5), :locY=>(180 * (90 / 100.0)), :justification=>Graphics.TEXT_JUSTIFY_CENTER, :font=>Graphics.FONT_SMALL});
+
+            var rez_cmp_local_text_BatteryLOW = new WatchUi.Text({:identifier=>"BatteryLOW", :color=>Graphics.COLOR_RED, :locX=>(215 * 0.5), :locY=>(180 * (90 / 100.0)), :justification=>Graphics.TEXT_JUSTIFY_CENTER, :font=>Graphics.FONT_SMALL});
+
+            return [rez_cmp_local_text_TimeHr, rez_cmp_local_text_TimeMin, rez_cmp_local_text_TimeSec, rez_cmp_local_text_Date, rez_cmp_local_text_Battery, rez_cmp_local_text_BatteryLOW] as Array<WatchUi.Drawable>;
+        }
+    } // Layouts
+
+    module Strings {
+        (:initialized) var AppName as ResourceId;
+    } // Strings
+} // Rez

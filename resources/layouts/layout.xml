@@ -1,10 +1,10 @@
 <layout id="WatchFace">
-    <label id="TimeHr"     x="center" y="18%" font="Graphics.FONT_NUMBER_MEDIUM" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_BLUE" />
-    <label id="TimeMin"    x="center" y="42%" font="Graphics.FONT_NUMBER_MEDIUM" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_WHITE" />
+    <label id="TimeHr"     x="center" y="18%" font="Graphics.FONT_NUMBER_HOT" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_BLUE" />
+    <label id="TimeMin"    x="center" y="42%" font="Graphics.FONT_NUMBER_HOT" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_WHITE" />
     <label id="TimeSec"    x="center" y="73%" font="Graphics.FONT_SMALL"         justification="Graphics.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_WHITE" />
-    <label id="Date"       x="center" y="2%"  font="Graphics.FONT_TINY"          justification="Graphics.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_WHITE" />
-    <label id="Battery"    x="center" y="90%" font="Graphics.FONT_TINY"          justification="Graphics.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_WHITE" />
-    <label id="BatteryLOW" x="center" y="90%" font="Graphics.FONT_TINY"          justification="Graphics.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_RED"   />
+    <label id="Date"       x="center" y="2%"  font="Graphics.FONT_SMALL"          justification="Graphics.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_WHITE" />
+    <label id="Battery"    x="center" y="90%" font="Graphics.FONT_SMALL"          justification="Graphics.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_WHITE" />
+    <label id="BatteryLOW" x="center" y="90%" font="Graphics.FONT_SMALL"          justification="Graphics.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_RED"   />
 </layout>
 
 <!--

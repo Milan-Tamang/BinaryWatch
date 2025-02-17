@@ -6,38 +6,29 @@ using Toybox.Graphics as Gfx;
 
 module Rez {
     module Drawables {
-        (:initialized) var LauncherIcon as Symbol;
-        (:initialized) var BinaryLogo as Symbol;
+        (:initialized) var LauncherIcon as ResourceId;
+        (:initialized) var BinaryLogo as ResourceId;
     } // Drawables
-
-    module Fonts {
-    } // Fonts
-
-    module JsonData {
-    } // JsonData
 
     module Layouts {
         function WatchFace(dc as Graphics.Dc) as Array<WatchUi.Drawable> {
-            var rez_cmp_local_text_TimeHr = new WatchUi.Text({:identifier=>"TimeHr", :color=>Graphics.COLOR_BLUE, :locX=>(208 * 0.5), :locY=>(208 * (18 / 100.0)), :justification=>Graphics.TEXT_JUSTIFY_CENTER, :font=>Graphics.FONT_NUMBER_MEDIUM});
+            var rez_cmp_local_text_TimeHr = new WatchUi.Text({:identifier=>"TimeHr", :color=>Graphics.COLOR_BLUE, :locX=>(208 * 0.5), :locY=>(208 * (18 / 100.0)), :justification=>Graphics.TEXT_JUSTIFY_CENTER, :font=>Graphics.FONT_NUMBER_HOT});
 
-            var rez_cmp_local_text_TimeMin = new WatchUi.Text({:identifier=>"TimeMin", :color=>Graphics.COLOR_WHITE, :locX=>(208 * 0.5), :locY=>(208 * (42 / 100.0)), :justification=>Graphics.TEXT_JUSTIFY_CENTER, :font=>Graphics.FONT_NUMBER_MEDIUM});
+            var rez_cmp_local_text_TimeMin = new WatchUi.Text({:identifier=>"TimeMin", :color=>Graphics.COLOR_WHITE, :locX=>(208 * 0.5), :locY=>(208 * (42 / 100.0)), :justification=>Graphics.TEXT_JUSTIFY_CENTER, :font=>Graphics.FONT_NUMBER_HOT});
 
             var rez_cmp_local_text_TimeSec = new WatchUi.Text({:identifier=>"TimeSec", :color=>Graphics.COLOR_WHITE, :locX=>(208 * 0.5), :locY=>(208 * (73 / 100.0)), :justification=>Graphics.TEXT_JUSTIFY_CENTER, :font=>Graphics.FONT_SMALL});
 
-            var rez_cmp_local_text_Date = new WatchUi.Text({:identifier=>"Date", :color=>Graphics.COLOR_WHITE, :locX=>(208 * 0.5), :locY=>(208 * (2 / 100.0)), :justification=>Graphics.TEXT_JUSTIFY_CENTER, :font=>Graphics.FONT_TINY});
+            var rez_cmp_local_text_Date = new WatchUi.Text({:identifier=>"Date", :color=>Graphics.COLOR_WHITE, :locX=>(208 * 0.5), :locY=>(208 * (2 / 100.0)), :justification=>Graphics.TEXT_JUSTIFY_CENTER, :font=>Graphics.FONT_SMALL});
 
-            var rez_cmp_local_text_Battery = new WatchUi.Text({:identifier=>"Battery", :color=>Graphics.COLOR_WHITE, :locX=>(208 * 0.5), :locY=>(208 * (90 / 100.0)), :justification=>Graphics.TEXT_JUSTIFY_CENTER, :font=>Graphics.FONT_TINY});
+            var rez_cmp_local_text_Battery = new WatchUi.Text({:identifier=>"Battery", :color=>Graphics.COLOR_WHITE, :locX=>(208 * 0.5), :locY=>(208 * (90 / 100.0)), :justification=>Graphics.TEXT_JUSTIFY_CENTER, :font=>Graphics.FONT_SMALL});
 
-            var rez_cmp_local_text_BatteryLOW = new WatchUi.Text({:identifier=>"BatteryLOW", :color=>Graphics.COLOR_RED, :locX=>(208 * 0.5), :locY=>(208 * (90 / 100.0)), :justification=>Graphics.TEXT_JUSTIFY_CENTER, :font=>Graphics.FONT_TINY});
+            var rez_cmp_local_text_BatteryLOW = new WatchUi.Text({:identifier=>"BatteryLOW", :color=>Graphics.COLOR_RED, :locX=>(208 * 0.5), :locY=>(208 * (90 / 100.0)), :justification=>Graphics.TEXT_JUSTIFY_CENTER, :font=>Graphics.FONT_SMALL});
 
             return [rez_cmp_local_text_TimeHr, rez_cmp_local_text_TimeMin, rez_cmp_local_text_TimeSec, rez_cmp_local_text_Date, rez_cmp_local_text_Battery, rez_cmp_local_text_BatteryLOW] as Array<WatchUi.Drawable>;
         }
     } // Layouts
 
-    module Menus {
-    } // Menus
-
     module Strings {
-        (:initialized) var AppName as Symbol;
+        (:initialized) var AppName as ResourceId;
     } // Strings
 } // Rez

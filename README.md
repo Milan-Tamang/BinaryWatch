@@ -1,7 +1,3 @@
-A binary watch face *poorly* designed for the Forerunner 45
-
-![Alt text](/watchface_capture.png?raw=true "Image of watch face showing time")
-
 ## Monkey C
 - https://developer.garmin.com/connect-iq/monkey-c/
 
@@ -17,6 +13,10 @@ A binary watch face *poorly* designed for the Forerunner 45
 ## Watch Face Examples
 - https://github.com/douglasr/connectiq-samples/tree/master/watchfaces
 
+# Test/ Simulate
+- Debug: Restart (ctrl + shift + F5)
+- choose device to simulate
+
 # Load App/ Watch Face to Device
 - Monkey C: Build for device
 - Copy .prg files onto device at Device/GARMIN/Apps/
@@ -24,8 +24,7 @@ A binary watch face *poorly* designed for the Forerunner 45
 # general
 - add elements to layout/ drawables/ strings.xlm to include in .mc file
 
-
-
-# Updates
-## v1.1.0
-Modifed display behaviour such that if battery below 20% the red battery low percentage is always displayed even when in low power mode.
+# Connect IQ SDK Manager
+- https://developer.garmin.com/connect-iq/sdk/
+- add devices
+- update SDK

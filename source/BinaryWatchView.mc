@@ -31,7 +31,7 @@ class BinaryWatchView extends WatchUi.WatchFace {
     // don't look at this..
     function toBin(num)
     {
-        var binOut;
+        var binOut = "";
 
         switch(num)
         {
@@ -223,27 +223,49 @@ class BinaryWatchView extends WatchUi.WatchFace {
         return binOut;
     }
 
+    // much better implementation for binary conversion
+    function toBin2(num)
+    {
+        var binOut = "";
+        var i = 6;
+
+        while(num > 0)
+        {
+            binOut = ((num % 2) == 0 ? "0" : "1") + binOut;
+            num /= 2;
+            i--;
+        }
+
+        while(i > 0)
+        {
+            binOut = "0" + binOut;
+            i--;
+        }
+
+        return binOut;
+    }
+
     function showTime()
     {
-        // hour and minutes
+        // get hour and minutes
         var clockTime = System.getClockTime();
-        var HrString = clockTime.hour;
-        var MinString = clockTime.min;
-        var secString = isAwake ? clockTime.sec : "";
 
         // hour
+        var HrString = clockTime.hour;
         var viewTimeHr = View.findDrawableById("TimeHr") as Text;
-        var binHr = toBin(HrString);
+        var binHr = toBin2(HrString);
         viewTimeHr.setText(binHr);
 
         // minutes
+        var MinString = clockTime.min;
         var viewTimeMin = View.findDrawableById("TimeMin") as Text;
-        var binMin = toBin(MinString);
+        var binMin = toBin2(MinString);
         viewTimeMin.setText(binMin);
 
-        // seconds (only visible while in non-low power mode)
+        // seconds (only visible while in high power mode)
+        var secString = clockTime.sec;
         var viewTimeSec = View.findDrawableById("TimeSec") as Text;
-        var binSec = toBin(secString);
+        var binSec = isAwake ? toBin2(secString) : "";
         viewTimeSec.setText(binSec);
 
         // DEBUG
@@ -281,7 +303,13 @@ class BinaryWatchView extends WatchUi.WatchFace {
         // battery charge
         var systemStats = System.getSystemStats();
         var batteryPercent = systemStats.battery;
-        var batteryString = isAwake ? (batteryPercent.format("%d") + "%") : "";
+
+        // todo: if battery below 20% always show on display
+
+        var batteryString = (!isAwake && batteryPercent > 20 ) ? "": (batteryPercent.format("%d") + "%");
+        // if NOT awake and batteryPercent > 20
+        // then: show nothing
+        // else if awake AND batteryPercent > OR < 20: show battery
         var viewBattery = View.findDrawableById("Battery") as Text;
         var viewBatteryLOW = View.findDrawableById("BatteryLOW") as Text;
 
